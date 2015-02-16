@@ -1,6 +1,5 @@
 # SideButton
 This library provides a simple way to add a side button
 
-![Show](./show.png =480x600)
-
-![Hide](./hide.png =480x600)
+<img src="show.jpg" alt="Show" style="width: 200px;"/>
+<img src="hide.jpg" alt="Hide" style="width: 200px;"/>
